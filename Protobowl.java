@@ -12,7 +12,7 @@ import javax.swing.*;
 import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
-public class Protobowl implements ArrowListener
+public class Protobowl 
 {
     private static ProtobowlDisplay display;
     private static JTextArea questionDisplay;
@@ -42,7 +42,7 @@ public class Protobowl implements ArrowListener
         display = new ProtobowlDisplay();
         Protobowl protobowl = new Protobowl(display);
         database = new Database();
-        display.setArrowListener(protobowl);
+        //display.setArrowListener(protobowl);
         displaySpeed = 100;
 
         boolean pause = false;
