@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=ArrowListener
+comment0.text=\n\ Write\ a\ description\ of\ interface\ ArrowListener\ here.\n\ \n\ @author\ (your\ name)\ \n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=void\ spacePressed()
+comment2.params=
+comment2.target=void\ rightPressed()
+numComments=3
