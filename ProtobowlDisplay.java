@@ -11,7 +11,7 @@ import javax.swing.*;
 public class ProtobowlDisplay implements KeyListener
 {
     private JFrame protobowl;
-    private static ArrowListener listener;
+    //private static ArrowListener listener;
     private Database database;
     // text area that display the question
     private JTextArea questionDisplay;
